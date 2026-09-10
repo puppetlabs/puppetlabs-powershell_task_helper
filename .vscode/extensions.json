@@ -1,7 +1,6 @@
 {
   "recommendations": [
-    "ms-vscode.powershell",
     "puppet.puppet-vscode",
-    "rebornix.Ruby"
+    "Shopify.ruby-lsp"
   ]
 }

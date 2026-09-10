@@ -1,11 +1,21 @@
 {
   "name": "puppetlabs-powershell_task_helper",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "puppetlabs",
   "summary": "A helper for writing tasks in PowerShell",
   "license": "Apache-2.0",
   "source": "git://github.com/puppetlabs/puppetlabs-powershell_task_helper.git",
   "project_page": "https://github.com/puppetlabs/puppetlabs-powershell_task_helper",
   "issues_url": "https://github.com/puppetlabs/puppetlabs-powershell_task_helper/issues",
-  "dependencies": []
+  "dependencies": [],
+  "operatingsystem_support": [],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 8.0.0 < 10.0.0"
+    }
+  ],
+  "pdk-version": "3.6.1",
+  "template-url": "https://github.com/puppetlabs/pdk-templates.git#main",
+  "template-ref": "heads/main-0-gb7f9e32"
 }
