@@ -1,6 +1,6 @@
 {
   "name": "puppetlabs-powershell_task_helper",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "author": "puppetlabs",
   "summary": "A helper for writing tasks in PowerShell",
   "license": "Apache-2.0",
@@ -38,7 +38,7 @@
   "requirements": [
     {
       "name": "puppet",
-      "version_requirement": ">= 8.0.0 < 10.0.0"
+      "version_requirement": ">= 4.10.0 < 10.0.0"
     }
   ],
   "pdk-version": "3.6.1",
